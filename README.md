@@ -35,13 +35,15 @@ $ ./output
 
 Want to contribute? *Nope!*
 
-Wct Editor created for bran explosion, "gaming with it", hacking, but ***NOT FOR BIG PROGRAMMS***! If you write a large program (more, than 1 MB), you may lose your mind!
+Wct Editor created for brian explosion, "gaming with it", hacking, but ***NOT FOR BIG PROGRAMMS***! If you write a large program (more, than 1 MB), you may lose your mind!
+
+Also, if you're crazy , Wct IDE is best for you!
 
 ### Todo's
 
- - Add GUI editor
- - Add Mac OS version
- - Write book about wct
+ - Add GUI editor *(ok)*
+ - Add Mac OS version *(nope)*
+ - Write book about wct *(nope)*
 
 License
 ----
