@@ -50,6 +50,13 @@ License
 
 MIT
 
+### External links
+
+ - www.wctsite.tk - official site of Wct Editor;
+ - www.wctsite.tk/map - table for coding in machine codes;
+ - www.wctsite.tk/code - advanced table for coding;
+ - www.wctsite.tk/table - ASCII table;
+ - www.vk.com/wctstudio - our group in VK.
 
 ### Contact information
 
