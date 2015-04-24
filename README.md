@@ -35,7 +35,7 @@ $ ./output
 
 Want to contribute? *Nope!*
 
-Wct Editor created for brian explosion, "gaming with it", hacking, but ***NOT FOR BIG PROGRAMMS***! If you write a large program (more, than 1 MB), you may lose your mind!
+Wct Editor created for brain explosion, "gaming with it", hacking, but ***NOT FOR BIG PROGRAMMS***! If you write a large program (more, than 1 MB), you may lose your mind!
 
 Also, if you're crazy , Wct IDE is best for you!
 
