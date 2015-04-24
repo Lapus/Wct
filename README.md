@@ -33,11 +33,11 @@ $ ./output
 
 ### Development
 
-Want to contribute? *Nope!*
+You need to write a big program? *Nope!*
 
-Wct Editor created for brain explosion, "gaming with it", hacking, but ***NOT FOR BIG PROGRAMMS***! If you write a large program (more, than 1 MB), you may lose your mind!
+Wct Editor created for the brain explosion, writing small programs for hacking, and so on. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind!
 
-Also, if you're crazy , Wct IDE is best for you!
+Also, if you're crazy, Wct IDE is best for you!
 
 ### Todo's
 
