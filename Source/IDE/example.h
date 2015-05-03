@@ -186,9 +186,9 @@ GK	AA // команда PUSH с оп-кодом Ibss (в данном случа
 GI	AA DA EA AA // команда PUSH с оп-кодом Ivs (переход на адрес EADAAAw), операнд равен 4 байтам
 GI	BH DA EA AA // ^ (переход на адрес EADABHw), 4 байта
 GK	AA // push AAw (0)
-OO	BF [HA CA EA AA] // команда CALL, вызов процедуры MessageBox по адресу EACAHAw
+OO	BF   HA CA EA AA // команда CALL, вызов процедуры MessageBox по адресу EACAHAw
 GK	AA // push AAw (0)
-OO	BF [GI CA EA AA] // команда CALL, вызов процедуры MessageBox по адресу EACAGIw
+OO	BF   GI CA EA AA // команда CALL, вызов процедуры MessageBox по адресу EACAGIw
 
 // пустые байты
 
