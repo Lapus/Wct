@@ -59,6 +59,8 @@ MIT
  - www.wctsite.tk/code - advanced table for coding;
  - www.wctsite.tk/table - ASCII table;
  - www.vk.com/wctstudio - our group in VK.
+ - www.wctsite.tk/download - download link
+ - www.wctsite.tk/build - online compilation **(new)**
 
 ### Contact information
 
