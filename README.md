@@ -61,7 +61,7 @@ MIT
  - www.vk.com/wctstudio - our group in VK.
  - www.wctsite.tk/download - download link
  - www.wctsite.tk/build - online compilation **(new)**
- - mihip.github.io/Wct - another site
+ - www.mihip.github.io/Wct - another site
 
 ### Contact information
 
