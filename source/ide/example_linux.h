@@ -81,7 +81,7 @@ He ia ae ai	// UNDEFINED для системы V ABI				│	│	│
 Bo aa aa aa	// Размер сегмента в файле (p_filesz)		<———————┼———————┼———————┘
 Bo aa aa aa	// Размер сегмента в памяти (p_memsz)			│	│
 		//							│	│
-Af aa aa aa aa	// Флаги,	 					│	│
+Af aa aa aa aa	// Флаги - EXECUTABLE WRITEABLE READABLE		│	│
 Ba aa aa	// Необходимое выравнивание для данного раздела		│	│
 			//						│	│
 			// Необходимая системе информация		│	│
