@@ -1,4 +1,5 @@
-The MIT License (MIT)
+Wct distributes under
+The MIT License (MIT).
 
 Copyright (c) 2015 Mihail Podivilov
 
