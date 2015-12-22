@@ -9,6 +9,8 @@ Advantages:
   - Fast
   - Small
   - Easy to use
+  - More readable, than Hex
+  - Improves logic brain function
 
 Wct editor is used in Stapler programming language.
 
@@ -17,7 +19,7 @@ Wct editor is used in Stapler programming language.
 
 ### Using
 
-If you use Linux OS, just copy *wcteditor* to *bin* folder, and you can use Wct Editor with following command:
+If you use Linux, just copy *wcteditor* to */usr/bin* folder, and you can use Wct Editor with following command:
 
 ```sh
 $ wcteditor <source> [output]
@@ -35,17 +37,16 @@ $ ./output
 
 ### Development
 
-You need to write a big program? *Nope!*
+You need to write a big program? Of course, you can do it, but *it's not worth it*!
 
-Wct Editor created for the brain explosion, writing small programs for hacking, and so on. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind!
+Wct Editor created for the brain explosion & training, embedding programs into other programs, writing small programs (also for hacking), coding under retro pc (also for coding any demos), exploring the wilds of the PC architecture and for easier understanding of what you are doing. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind.
 
 Also, if you're crazy, Wct IDE is best for you!
 
 ### Todo's
 
- - Add GUI editor *(ok)*
- - Add Mac OS version *(nope)*
- - Write book about wct *(nope)*
+ - Add Mac OS version
+ - Write book about Wct
 
 License
 ----
@@ -55,16 +56,19 @@ MIT
 ### External links
 
  - www.wctsite.tk - official site of Wct Editor;
- - www.wctsite.tk/map - table for coding in machine codes;
+ - www.wctsite.tk/map - table for coding in machine codes under 8086;
  - www.wctsite.tk/code - advanced table for coding;
  - www.wctsite.tk/table - ASCII table;
+ - www.wctsite.tk/ints/bios - BIOS interrupt table;
+ - www.wctsite.tk/table/apogee - Apogee BK-01 table;
  - www.vk.com/wctstudio - our group in VK.
  - www.wctsite.tk/download - download link
- - www.wctsite.tk/build - online compilation **(new)**
+ - www.wctsite.tk/build - online compilation
  - www.mihip.github.io/Wct - another site
+ - www.wctsite.tk/party - demoparty.
 
 ### Contact information
 
 Creator: Mihail Podivilov (2012-2015 year).
 Email: mihip@yandex.ru.
-VK Profile: http://vk.com/cageo.
+VK Profile: http://vk.com/mihip.
