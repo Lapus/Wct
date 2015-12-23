@@ -14,9 +14,7 @@ Advantages:
 
 Wct editor is used in Stapler programming language and practically does
 not differ from the Hex, but has a more advanced system of writing code.
-
-### Stable version
-1.50.50
+Stable version stays 1.50.50, but you can use a newest versions. :bulb:
 
 ### Using
 
