@@ -46,13 +46,9 @@ Also, if you're crazy, Wct IDE is best for you!
 
 ### Todo's
 
- - Add Mac OS version
- - Write book about Wct
-
-License
-----
-
-MIT
+  - [ ] Add Mac OS version
+  - [ ] Write book about Wct
+  - [x] Optimize speed
 
 ### External links
 
