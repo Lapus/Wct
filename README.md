@@ -38,7 +38,7 @@ $ ./output
 
 You need to write a big program? Of course, you can do it, but *it's not worth it*!
 
-Wct Editor created for the brain explosion & training, embedding programs into other programs, writing small programs (also for hacking), coding under retro pc (also for coding any demos), exploring the wilds of the PC architecture and for easier understanding of what you are doing. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind. Also, if you're crazy, Wct IDE is the best solution for you.
+Wct Editor created for the brain explosion & training, embedding programs into other programs, writing small programs (also for hacking), coding under retro pc (or coding any demos), exploring the wilds of the PC architecture and for easier understanding of what you are doing. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind. You can create own version of Wct Editor or use Wct number system in raw type (for embedded systems, languages, compilers, math, etc). Also, if you're crazy, Wct IDE is the best solution for you.
 
 ### Todo's
 
