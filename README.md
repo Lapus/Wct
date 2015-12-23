@@ -7,9 +7,9 @@ Wct Editor is a fast and crossplatform machine code editor for numeric system Wc
 Advantages:
 
   - **Fast**
-  - **Small**
+  - ***Small***
   - **Easy to use**
-  - **More readable, than Hex**
+  - ***More readable, than Hex***
   - **Improves logic brain function**
 
 :bulb: Wct editor is used in Stapler programming language and practically does
@@ -38,9 +38,7 @@ $ ./output
 
 You need to write a big program? Of course, you can do it, but *it's not worth it*!
 
-Wct Editor created for the brain explosion & training, embedding programs into other programs, writing small programs (also for hacking), coding under retro pc (also for coding any demos), exploring the wilds of the PC architecture and for easier understanding of what you are doing. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind.
-
-Also, if you're crazy, Wct IDE is best for you!
+Wct Editor created for the brain explosion & training, embedding programs into other programs, writing small programs (also for hacking), coding under retro pc (also for coding any demos), exploring the wilds of the PC architecture and for easier understanding of what you are doing. But not for writing large programs! If you write a large program (more, than 1 MB), you may lose your mind. Also, if you're crazy, Wct IDE is the best solution for you.
 
 ### Todo's
 
