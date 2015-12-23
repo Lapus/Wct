@@ -42,7 +42,7 @@ Wct Editor created for the brain explosion & training, embedding programs into o
 
 ### Todo's
 
-  - [ ] Add Mac OS version
+  - [x] Add Mac OS version
   - [ ] Write book about Wct
   - [x] Optimize speed
 
