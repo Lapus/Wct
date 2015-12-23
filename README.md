@@ -1,6 +1,6 @@
 # Wct Editor
 
-[![Join the chat at https://gitter.im/Mihip/Wct](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Mihip/Wct?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![Logo](http://cs404328.vk.me/u321075750/docs/b603fc7fb897/Int1.png?extra=NfBZquz4CLIKO52RzbSX4dpv8QpyFBXDVeJwXZoapQHrNxO07SuxxyuIWI16xo-1Je3nnsXNeWS4doOqo38vLTUA8xGZhObp)
 
 Wct Editor is a fast and crossplatform machine code editor for numeric system Wct.
 
